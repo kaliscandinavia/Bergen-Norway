@@ -12,7 +12,7 @@ text: "From andviksfjellet."
 },
 {
   link: "bg2.png",
-  text: "Torgalvmenningen"
+  text: "Torget"
 },
 {
 link: "bg1.png",
@@ -20,7 +20,7 @@ text: "Smitt & smau"
 },
 {
 link: "nosy.png",
-text: "A habitant"
+text: "Turist"
 }
 ];
 
