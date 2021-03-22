@@ -8,7 +8,7 @@ var currentImage = 0;
 var images = [
   {
 link: "bg0.png",
-text: "From andviksfjellet."
+text: "From Sandviksfjellet."
 },
 {
   link: "bg2.png",
