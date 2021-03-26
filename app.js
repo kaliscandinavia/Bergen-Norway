@@ -31,17 +31,17 @@ next.addEventListener("click",function (){
 currentImage = 0;
 }
 image.src = images[currentImage].link;
-discription.textContent = images[currentImage].text;
+description.textContent = images[currentImage].text;
 });
 
-//Back event handler
+/Back event handler
 back.addEventListener("click",function () {
   currentImage = currentImage -1;
   if (currentImage === -1){
     currentImage = image.length -1;
   }
   image.src = images[currentImage].link;
-  discription.textContent = images[currentImage].text;
+  description.textContent = images[currentImage].text;
 
 
 });
