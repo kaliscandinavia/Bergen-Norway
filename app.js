@@ -41,7 +41,7 @@ back.addEventListener("click",function () {
     currentImage = image.length -1;
   }
   image.src = images[currentImage].link;
-  description.textContent = images[currentImage].text;
+  discription.textContent = images[currentImage].text;
 
 
 });
