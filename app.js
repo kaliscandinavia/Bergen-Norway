@@ -20,7 +20,7 @@ text: "Smitt & smau"
 },
 {
 link: "nosy.png",
-text: "Turist"
+text: "Turist from Manchester"
 }
 ];
 
