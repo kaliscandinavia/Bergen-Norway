@@ -34,7 +34,7 @@ image.src = images[currentImage].link;
 description.textContent = images[currentImage].text;
 });
 
-/Back event handler
+//Back event handler
 back.addEventListener("click",function () {
   currentImage = currentImage -1;
   if (currentImage === -1){
