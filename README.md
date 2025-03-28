@@ -1,3 +1,3 @@
-# Bergen-Norway
-link to finish html/css.js page
+# Bergen-Norway.Just to get s repo.
+Test link
 https://kaliscandinavia.github.io/Bergen-Norway/. 
